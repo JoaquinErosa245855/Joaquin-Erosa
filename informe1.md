@@ -126,8 +126,8 @@ Dicho informe desglosa varias de las necesidades de alumnos que almuerzan en una
 
 **User Personas:** Identificamos 3 perfiles usuarios en nuestra aplicación: 
 
-![Alt text](image.png?raw=true))
-![Alt text](image-1.png?raw=true))
+![Alt text](image-2.png)
+![Alt text](image-3.png)
 
 
 ## Especificación
