@@ -126,10 +126,9 @@ Dicho informe desglosa varias de las necesidades de alumnos que almuerzan en una
 
 **User Personas:** Identificamos 3 perfiles usuarios en nuestra aplicación: 
 
-![User persona](https://github.com/JoaquinErosa245855/Joaquin-Erosa/assets/143094053/76a1d2fa-5c4b-41d1-bea3-599bdcb8d441)
-![User persona (1)](https://github.com/JoaquinErosa245855/Joaquin-Erosa/assets/143094053/9e3d45d7-dfb1-4a3a-ae46-a7d1ca45ce3f)
+![Alt text](<User persona.png>)
 
-
+![Alt text](<User persona (1).png>)
 
 ## Especificación
 
